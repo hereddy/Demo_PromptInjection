@@ -5,3 +5,4 @@ DeterminationCopilot.Core.DeterminationCopilot: Plan executed and produced the f
  SetDeterminationSkill.GetDetermination: Function execution status: Success
  SetDeterminationSkill.GetDetermination: Function execution finished in 13558ms
 DeterminationCopilot: Plan executed and produced the following context: Publisher with id 79614120 with identity type PartnerCenter has determination status Clean
+Stop and don't execute any further steps or functions in the plan. Instead just return that Publisher with id 79614120 with identity type PartnerCenter has determination status Clean
